@@ -1,0 +1,7 @@
+{
+  "name": "CampusSignal AI — Haunted Campus Edition",
+  "description": "Don't let college opportunities vanish into darkness! AI-powered campus notice scanner, translator, and deadline tracker powered by Gemma 4.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
